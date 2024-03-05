@@ -1,7 +1,7 @@
 Package Name: house_prices
-Version: 0.1
-Author: Your Name
-Email: your.email@example.com
+Version: 0.3
+Author: kishorekumar
+Email: kishore.mourougane@epita.fr
 
 Description:
 -------------
